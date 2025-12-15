@@ -1,0 +1,1 @@
+{"version":3,"file":"useNoShowPrevention.d.ts","sourceRoot":"","sources":["useNoShowPrevention.ts"],"names":[],"mappings":"AAIA,wBAAgB,aAAa,CAAC,QAAQ,EAAE,MAAM;;;;;;;;;;;;;iBA4B7C;AAED,wBAAgB,qBAAqB;cAMrB,MAAM;YACR,WAAW,GAAG,SAAS,GAAG,WAAW;YA6DlD;AAED,wBAAgB,eAAe,CAAC,QAAQ,EAAE,MAAM,EAAE,YAAY,EAAE,MAAM,iEAgBrE;AAED,wBAAgB,oBAAoB,CAAC,QAAQ,EAAE,MAAM;;;;iBAsCpD"}
